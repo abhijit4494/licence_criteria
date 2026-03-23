@@ -1,5 +1,5 @@
 import { useState, useEffect, CSSProperties, KeyboardEvent, useRef } from "react";
-import { qaData } from "../component/qaData";
+import { qaData } from "../component/data/qaData";
 
 interface QAItem {
   keywords: string[];
